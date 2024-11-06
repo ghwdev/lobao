@@ -1,0 +1,58 @@
+body{
+    padding: 0;
+    border: 0;
+    margin: 0;
+    height: 150vh;
+    background:linear-gradient(180deg, rgb(154, 154, 255) , rgb(130, 205, 255));
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.pn{
+    font-size: 30px;
+    display:none;
+}
+h1{
+    font-size: 50px;
+position: relative;
+top: -0%;
+color:rgba(255, 68, 0, 0.363);
+}
+
+h2{
+    position: relative;
+    top: -0%;
+
+}
+p,input,button{  position: relative;
+    top: -0%;
+}
+input{
+    font-size: 30px;
+    border-radius: 20px;
+    height: 10%;
+    width: 40%;
+}
+button{
+    margin-top: 2%;
+    font-size: 15px;
+    border-radius: 20px;
+    height: 10%;
+    width: 20%;
+    cursor: pointer;
+    background-color: rgba(255, 128, 0, 0.911);
+}
+img{
+    position: relative;
+top: -0%;
+    width: 30vw;
+    height: 50vh;
+    border-radius: 50%;
+}
+.tudo{
+    position: relative;
+top: -0%;
+font-size: 30px;
+}
