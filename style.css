@@ -61,21 +61,21 @@ font-size: 30px;
         font-size: 30px;
         border-radius: 20px;
         height: 10%;
-        width: 340px;
+        width: 240px;
     }
     button{
         margin-top: 2%;
         font-size: 15px;
         border-radius: 20px;
         height: 10%;
-        width: 300px;
+        width: 200px;
         cursor: pointer;
         background-color: rgba(255, 128, 0, 0.911);
     }
     img{
         position: relative;
     top: -0%;
-        width: 300px;
+        width: 200px;
         height: 100vh;
 
     }
