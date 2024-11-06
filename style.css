@@ -4,7 +4,7 @@ body{
     margin: 0;
     height: 150vh;
     background:linear-gradient(180deg, rgb(154, 154, 255) , rgb(130, 205, 255));
-
+text-align:center;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -49,7 +49,7 @@ img{
 top: -0%;
     width: 30vw;
     height: 50vh;
-    border-radius: 50%;
+    border-radius:30px;
 }
 .tudo{
     position: relative;
