@@ -60,14 +60,14 @@ font-size: 30px;
     input{
         font-size: 30px;
         border-radius: 20px;
-        height: 10%;
+        height: 50px;
         width: 180px;
     }
     button{
         margin-top: 2%;
         font-size: 15px;
         border-radius: 20px;
-        height: 10%;
+        height: 50px;
         width: 130px;
         cursor: pointer;
         background-color: rgba(255, 128, 0, 0.911);
@@ -76,7 +76,7 @@ font-size: 30px;
         position: relative;
     top: -0%;
         width: 130px;
-        height: 100vh;
+        height: 200px;
 
     }
 }
